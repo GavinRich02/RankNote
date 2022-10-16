@@ -1,0 +1,22 @@
+html {
+    text-align: center;
+    cursor:default;
+
+    background-color: rgb(23, 23, 23);
+}
+
+button {
+    margin-top: 30vh;
+    padding: 10vh;
+    font-size: 14vh;
+
+    border: none;
+
+    background-color: rgb(0, 153, 255);
+    color: white;
+}
+
+#rate {
+    font-size: 15vh;
+    color: white;
+}

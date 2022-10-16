@@ -1,4 +1,5 @@
 # RankNote
+Random generation of a short tune that can be rated and played by other users
 
 NOTE:
 
